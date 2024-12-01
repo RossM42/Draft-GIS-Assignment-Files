@@ -6,19 +6,13 @@ The script can also (perhaps more conveniently) be viewed in the PDF file.
 
 2. Why this project is useful (PURPOSE):
 
-I've prepared this material for a student assignment, and these files are required to be accessible for assessment purposes. The main document for the assignment is an ESRI StoryMap, which I may decide to make publicly available, once it has been assessed. I will be providing an embedded link within that StoryMap to this GitHub content.
+I've prepared this material for a student assignment, and these files are required to be accessible for assessment purposes. The main document for the assignment is an ESRI StoryMap. I will be providing an embedded link within that StoryMap to this GitHub content. The StoryMap presentation can be viewed at this URL: https://storymaps.arcgis.com/stories/7132fdded9de4d5e8e31a061d0f0051c
 
 I wanted to investigate if a specific intervention (man-made channel) done to address water quality issues in an estuary actually impacted water quality, and how so. The channel was constructed over the period 1990-1994. I looked at images at time points (in March, July, September, December) before (1988) and after (1996) this period to assess change. This is very simplistic, and has been limited by the time constraints available to do this desktop study. 
 
-Please note that this assignment has not been assessed yet, and that I am relatively new to ArcGIS Pro and GitHub, and still have much to learn about these topics.
+Importantly, this analysis is of spectral reflectance imagery only, done for the purposes of a student assignment, which has not been peer-reviewed or subject to ground-truth validation, so results must be treated with caution.
 
-Importantly, please also note that any observed changes in spectral reflectance are just that, and do not necessarily reflect historical changes in the water quality. One would need to have collected and assessed ground-truth information to determine to what extent changes in these satellite data did reflect actual changes in the water quality.
-
-3. How users can get started:
-
-Apologies, but I have not intended for this project to be used by others at this stage (except to those assessing my assignment).
-
-4. This repository contains:
+3. This repository contains:
 
 1) an ArcGIS notebook containing Python code (with file extension .ipynb) 
 2) a PDF file, which is an electronic printed copy of the notebook script
@@ -27,13 +21,12 @@ Apologies, but I have not intended for this project to be used by others at this
 
 The shapefiles are each comprised of several separate files, and all need to be saved together in the same directory in order to be available to the GIS software (ArcGIS Pro). You will need to have a license to access ArcGIS Pro software.
 
-5. Additional information.
+4. Additional information.
 
-These materials are for a student project that I have enrolled in at the University of Western Australia.
-I wish to share these materials, to accompany those that I have submitted for a university assessment, which is primarily an ESRI StoryMap. 
+These materials are for a student project that I completed for my postgraduate studies at the University of Western Australia in October, 2024.
+This material is intended to provide access to the Python script when viewing the StoryMap presentation. 
 
 The project is titled "Historical impacts of a channel on estuarine water quality".
-I may decide to make the link to the StoryMap publicly available after this assignment has been assessed.
 
 Ross Marriott.
 
