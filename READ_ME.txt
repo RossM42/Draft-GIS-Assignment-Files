@@ -6,9 +6,12 @@ The script can also (perhaps more conveniently) be viewed in the PDF file.
 
 2. Why this project is useful (PURPOSE):
 
-I've prepared this material for a student assignment, and these files are required to be accessible for assessment purposes. The main document for the assignment is an ESRI StoryMap. I will be providing an embedded link within that StoryMap to this GitHub content. The StoryMap presentation can be viewed at this URL: https://storymaps.arcgis.com/stories/7132fdded9de4d5e8e31a061d0f0051c
+I've prepared this material for a student assignment, and these files are required to be accessible for assessment purposes. The main document for the assignment is an ESRI StoryMap. 
+I provided an embedded link within that StoryMap to this GitHub content. 
+The StoryMap presentation can be viewed at this URL: https://storymaps.arcgis.com/stories/7132fdded9de4d5e8e31a061d0f0051c
 
-I wanted to investigate if a specific intervention (man-made channel) done to address water quality issues in an estuary actually impacted water quality, and how so. The channel was constructed over the period 1990-1994. I looked at images at time points (in March, July, September, December) before (1988) and after (1996) this period to assess change. This is very simplistic, and has been limited by the time constraints available to do this desktop study. 
+I wanted to investigate if a specific intervention (man-made channel) done to address water quality issues in an estuary actually impacted water quality, and how so. The channel was constructed over the period 1990-1994. I looked at images at time points (in March, July, September, December) before (1988) and after (1996) this period to assess change. 
+This is somewhat of a simplistic analysis, does not include ground-truth validation, and has been limited by the time constraints available to do this desktop study. 
 
 Importantly, this analysis is of spectral reflectance imagery only, done for the purposes of a student assignment, which has not been peer-reviewed or subject to ground-truth validation, so results must be treated with caution.
 
